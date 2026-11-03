@@ -16,14 +16,14 @@ jobs:
       - name: Generate snake
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: fomalhautsanz
           outputs: |
-            dist/snake.svg?color_snake=6CCB3C&color_dots=E6F7FF,BFF5E8,7FE0F5,38B6FF,0B8FE8
+            dist/snake.svg?color_snake=71A1C6&color_dots=EAF7FF,ABC1DB,74A8D1,5FAF91,336B45
 
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: output
           build_dir: dist
+          target_branch: output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
