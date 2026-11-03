@@ -122,8 +122,6 @@ Hackathons, competitions, experiments, and projects that exist simply because I 
   <img src="https://img.shields.io/badge/INSTAGRAM-72B89A?style=for-the-badge&logo=instagram&logoColor=FFFFFF" alt="Instagram" />
 </a>
 
-<br/><br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=71A1C6&section=footer" alt="footer" />
 
 </div>
