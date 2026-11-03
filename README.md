@@ -76,9 +76,9 @@ Hackathons, competitions, experiments, and projects that exist simply because I 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=fomalhautsanz&show_icons=true&hide_border=false&custom_title=Wasabi's%20GitHub%20Stats&bg_color=EAF7FF&title_color=336B45&text_color=28566B&icon_color=5FAF91&border_color=ABC1DB&ring_color=71A1C6" alt="GitHub statistics" />
+<img height="170" src="https://wasabi-github-stats.vercel.app/api?username=fomalhautsanz&show_icons=true&hide_border=false&custom_title=Wasabi's%20GitHub%20Stats&bg_color=EAF7FF&title_color=336B45&text_color=28566B&icon_color=5FAF91&border_color=ABC1DB&ring_color=71A1C6" alt="GitHub statistics" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fomalhautsanz&layout=compact&langs_count=6&custom_title=Most%20Used%20Languages&bg_color=EAF7FF&title_color=336B45&text_color=28566B&border_color=ABC1DB" alt="Top languages" />
+<img height="170" src="https://wasabi-github-stats.vercel.app/api/top-langs/?username=fomalhautsanz&layout=compact&langs_count=6&custom_title=Most%20Used%20Languages&bg_color=EAF7FF&title_color=336B45&text_color=28566B&border_color=ABC1DB" alt="Top languages" />
 
 <br/><br/>
 
@@ -92,7 +92,7 @@ Hackathons, competitions, experiments, and projects that exist simply because I 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fomalhautsanz&bg_color=EAF7FF&color=336B45&line=71A1C6&point=4E8F62&area=true&area_color=ABC1DB&hide_border=true&custom_title=Wasabi's%20Contribution%20Garden&radius=12" alt="GitHub contribution graph" />
+<img src="https://raw.githubusercontent.com/fomalhautsanz/fomalhautsanz/output/snake.svg" alt="Wasabi's contribution snake" />
 
 </div>
 
@@ -106,7 +106,7 @@ Hackathons, competitions, experiments, and projects that exist simply because I 
   <img src="https://img.shields.io/badge/PORTFOLIO-71A1C6?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" alt="Portfolio" />
 </a>
 
-<a href="[www.linkedin.com/in/trixy-salada-0623203a6](https://www.linkedin.com/in/trixy-salada-0623203a6/)">
+<a href="https://www.linkedin.com/in/trixy-salada-0623203a6/">
   <img src="https://img.shields.io/badge/LINKEDIN-5FAF91?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" />
 </a>
 
