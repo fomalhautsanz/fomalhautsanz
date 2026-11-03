@@ -18,7 +18,7 @@ jobs:
         with:
           github_user_name: fomalhautsanz
           outputs: |
-            dist/snake.svg?color_snake=71A1C6&color_dots=EAF7FF,ABC1DB,74A8D1,5FAF91,336B45
+            dist/snake.svg?color_snake=%2371A1C6&color_dots=%23EAF7FF,%23ABC1DB,%2374A8D1,%235FAF91,%23336B45
 
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
