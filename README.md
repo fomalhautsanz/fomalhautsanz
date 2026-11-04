@@ -2,58 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=71A1C6&section=header&text=Wasabi%20here!%20&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=welcome%20to%20my%20web%20garden%20%F0%9F%8C%B1&descSize=18&descAlignY=60" alt="Wasabi header" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1400&color=336B45&center=true&vCenter=true&width=620&lines=Information+Technology+Student;Web+Developer;Python+%C2%B7+Django+%C2%B7+PHP+%C2%B7+MySQL;Exploring+Linux+%26+Data+Science;Building+things+beyond+%F0%9F%8C%B1" alt="Typing SVG" />
-</a>
 
-<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=ABC1DB" width="65%" alt="divider" />
-
-</div>
-
-## 🌱 About Me
-
-> A student developer exploring different fields of technology,
-> growing little projects along the way and looking for a place to call home.
-
-I like building things that make me learn something new — especially when they take me a little beyond the syllabus.
-
-**Currently exploring:**  
-`Python` · `Django` · `Linux` · `Data Analysis` · `Web Development`
-
-**Fun fact:**  
-I like sleeping when it's raining. ☁️🌧️
-
----
-
-## 💻 What I Do
-
-<div align="center">
-
-🌐 **Web Development**  
-Building web applications with PHP, Laravel, Django, MySQL, JavaScript, and React.
-
-<br/>
-
-🔐 **Information Security**  
-Exploring security, systems, Linux, and the different ways technology works underneath.
-
-<br/>
-
-📊 **Data & Research**  
-Working with Python, Pandas, Jupyter, Matplotlib, statistics, and data analysis.
-
-<br/>
-
-🌱 **Side Projects**  
-Hackathons, competitions, experiments, and projects that exist simply because I wanted to learn something.
-
-</div>
-
----
-
-## 🌊 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -72,7 +23,7 @@ Hackathons, competitions, experiments, and projects that exist simply because I 
 
 ---
 
-## 📡 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
@@ -88,7 +39,7 @@ Hackathons, competitions, experiments, and projects that exist simply because I 
 
 ---
 
-## 🌐 Contribution Garden
+## Contributions
 
 <div align="center">
 
@@ -98,7 +49,7 @@ Hackathons, competitions, experiments, and projects that exist simply because I 
 
 ---
 
-## 🍃 Find Me Online
+## Find Me Online
 
 <div align="center">
 
